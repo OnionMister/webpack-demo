@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1606557701445'); /* IE9 */
+  src: url('iconfont.eot?t=1606557701445#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP8AAsAAAAACFQAAAOuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDdINQATYCJAMUCwwABCAFhG0HRxtbB1FULwJkPwrctgNeDKXX9SlFf55vcGkW7jt0jCDa7zd7b+99Q7xBEo10TyQS3SwREpUEnRYoUbtfrWmAbYTZ8c8yqkQK/cPe09Hsb8gVna5SFbKVQOOjYpAeNckekxzR2a4IPMwa0v8cM120DSy/zeaSEbSmvQGOEmhgXVcYhQd8B3JnJ+g3jN1EeRDXCfTNcbT3ji6uWyMJzAvEbZnHrVFKJ2uKQ1doS7ameAKvbnmgrwIe+ffHPwyjS1EbYOnB+WHW2vn6/fS79//vEE0R4I9ngbaLButakrgrtd3qhrF1XX3n93q2tPR1FeXr9cfms/upt90CrmhHij78h0coGkm0QOEQ2JLiydcvZhJ8bZgUvrtSXO6LghdTWEF/pMQz4FXXzwOP1WqEsphDQ5lTbXskwwmXtS7LhYTpuPcPA0NHlRkwFIf/nFk4TlHVozKeeiFho6tsgTBEclvnh6uG5piFlerVpPikSC5YJBQMlYW7d4Pv3Qt58CCMDcn374dy0hFwUWC17DKbYBYMMGdsLcWKnlC7kKxqYdMPCGlZAqoOqYUNTkiHDmyfkPxGPjecVDd0Lr4SvcIYbSl4m3t/8DbzVuwKlr8i+viizvGKh/jcSPwmRUIHLg5o9bOWM9KzlixSlVIfgNNMkDS5zyfvUeR7R2xi3vaGLe4+t88Va5+hC0nF4mIFKaRn2sVy7cWbz+100MPk6lUyTHfsnNuTGiRXLvIN8GfZKT15IhFcXBYkidkTVxeW39n/6PqBfdv22z/C0rfzy1dn5/H/VUc2ZFMOEcVXpT4TNhI5IGko2Bn1i/e7M7IO5QA/SMbokwBAsujXAEBk09spABRw7LNdQZyI9VfpLnu9XZ9fu5XrUr94V6E1/yfzWzalKwT6mnY95tn+at8vlBWno49f65rwPo5iunUhoWs6hqJjFhpd88jErkM1sAGtrk3oW3O8e2AS6YrsYdWzAGHMCxQjXqAx5hWZ2DeoZvxDaywa6DuM6ZEDi3E12SeMGTNI1lCmRgtk5ElQfIn5XMaUFHLKLVJTBiH0gmzyGDXSGCuaRR4xCxBkFBwJN0MpDVgyFabsFcx25vui7Jm81KjWxC6CYgxlQGINlFKGJmh7Nsl9/SWUm5NiVNPQYb2FSKMcHoQ8QQvksUy3ariW0Y2FXIQxIc8SiKGAI9GCJIwZwJZPqqAU8xQ9ItaML7USbWXe/Ar1jAegDzxRjRJNZNRo5dGcTS+LOe6SSsZWxmtXlFK2WgAA') format('woff2'),
+  url('iconfont.woff?t=1606557701445') format('woff'),
+  url('iconfont.ttf?t=1606557701445') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1606557701445#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-auto:before {
+  content: "\e6eb";
+}
+
+.icon-data:before {
+  content: "\e6f9";
+}
+
+.icon-rmb:before {
+  content: "\e703";
+}
+
+.icon-play-fill:before {
+  content: "\e72f";
+}
+
